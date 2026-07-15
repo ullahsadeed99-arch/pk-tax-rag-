@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+node_modules/
+
+.env
+backend/.env
+
+data/raw_pdfs/
+
+*.egg-info/
+
+.claude/
